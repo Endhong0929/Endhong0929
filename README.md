@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lim En Dhong</h1>
 <h3 align="center">A passionate frontend developer from Malaysia~</h3>
 
-- 🔭 I’m currently working on **Assignment 1 Industry Talk 1 Poster**
+- 🔭 I’m currently studying on **Cybersecurity and Networking in UTM Johor.**
+
+- 📫 How to reach me **limdhong@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
