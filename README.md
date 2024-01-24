@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently studying on **Cybersecurity and Networking in UTM Johor.**
 
+- 🌱 I’m currently learning **C++ Programming**
+
 - 📫 How to reach me **limdhong@graduate.utm.my**
+
+- 📄 Know about my experiences? [Actually I'm from Foundation UTM KL.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
